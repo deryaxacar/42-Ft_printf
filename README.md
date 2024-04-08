@@ -8,7 +8,7 @@ Bu proje, standart C dilindeki printf işlevinin yeniden yazılmasıdır. printf
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png" alt="Proje Logo">
+  <a target="blank"><img src="https://i.hizliresim.com/fyw0r12.png" height="150" width="150" /></a>
 </p>
 
 ## Projenin Amacı
