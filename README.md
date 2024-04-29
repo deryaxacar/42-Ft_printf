@@ -27,6 +27,7 @@ ft_printf işlevi, standart printf işleviyle benzer bir arayüz sunar. Kullanı
 
 Proje, ana ft_printf işlevinin yanı sıra yardımcı fonksiyonları ve yapılarını içerir. Bu içerik şunları içerebilir:
 
+- **Makefile**: Derleme dosyası.
 - **ft_printf.h**: Proje başlık dosyası, prototipleri ve yapı tanımlarını içerir.
 - **ft_printf.c**: Ana ft_printf işlevi ve yardımcı işlevlerin tanımları burada bulunur.
 - **ft_utils.c**: Yardımcı işlevler, karakter yazdırma ve biçim belirteçlerini işleme gibi işlevler burada tanımlanır.
