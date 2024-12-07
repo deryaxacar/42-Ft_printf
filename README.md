@@ -8,7 +8,7 @@ Bu proje, standart C dilindeki <code>printf</code> işlevinin yeniden yazılmas�
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
-  <a target="blank"><img src="https://i.hizliresim.com/fyw0r12.png" height="150" width="150" /></a>
+  <a target="blank"><img src="https://camo.githubusercontent.com/7d01b95dd537b7343a2b637b25a9bb8aabb6da6de60cd29e8e17d5653be90b5f/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f667977307231322e706e67" height="150" width="150" /></a>
 </p>
 
 ## Projenin Amacı 🎯
