@@ -31,3 +31,8 @@ Proje, ana <code>ft_printf</code> işlevinin yanı sıra yardımcı fonksiyonlar
 - **ft_printf.h**: Proje başlık dosyası, prototipleri ve yapı tanımlarını içerir. 📜
 - **ft_printf.c**: Ana <code>ft_printf</code> işlevi ve yardımcı işlevlerin tanımları burada bulunur. 🔧
 - **ft_utils.c**: Yardımcı işlevler, karakter yazdırma ve biçim belirteçlerini işleme gibi işlevler burada tanımlanır. 🧩
+
+---
+
+<p align="center">© 2025 This project was created by Derya ACAR.</p>
+
